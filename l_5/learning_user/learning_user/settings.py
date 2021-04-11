@@ -27,7 +27,7 @@ SECRET_KEY = 'kj==c(9@(=5_kta3quxu%qh1wq4xf_k+m1n$b=*xi%1u+na&-h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://ashishdjango.pythonanywhere.com/',]
 # Application definition
 
 INSTALLED_APPS = [
